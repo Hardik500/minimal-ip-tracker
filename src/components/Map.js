@@ -33,7 +33,7 @@ export default function Map({ position }) {
     });
 
     return (
-        <LeafletMap center={position} zoom={10} zoomControl={false}
+        <LeafletMap center={position} zoom={20} zoomControl={false}
             whenCreated={map => setInterval(() => { map.invalidateSize() }, 100)}
             style={{ height: isMobile ? "60vh" : "65vh" }}>
             <MyComponent position={position} />
