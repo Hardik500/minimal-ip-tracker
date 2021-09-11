@@ -5,7 +5,6 @@ import { MapContainer as LeafletMap, TileLayer, Marker, useMap } from "react-lea
 import { ReactComponent as MarkerIcon } from '../assets/icons/icon-location.svg'
 
 function MyComponent({ position }) {
-    console.log(position);
     const map = useMap();
     map.setView(position, map.getZoom());
     return null
