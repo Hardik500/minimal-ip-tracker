@@ -9608,6 +9608,16 @@ sass-loader@^10.0.5:
     schema-utils "^3.0.0"
     semver "^7.3.2"
 
+sawo-react@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/sawo-react/-/sawo-react-1.0.6.tgz#1e7edd2cec37999eaf1f44084c45cd70ad3db33f"
+  integrity sha512-b/+QHnDHIk/eDenbJS0bbIqB5erQonSit2Qj0I1uLdtPUIGyt/GF7CYyi0UUgF4cxakRi9WjHRTLBsRbDZ2Guw==
+
+sawo@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/sawo/-/sawo-1.0.1.tgz#c4074e6cbd2e2f51c3a3e4d0c8ab3b94b874c5d9"
+  integrity sha512-0iZByBZ7MTsE2WUGo7drk5ssjbNUmzjj8MirUiuKMNPBsfV5X9AMsTXmWMSF3YD80UReOkz6l692x+W6JVWzvQ==
+
 sax@~1.2.4:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
