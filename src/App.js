@@ -61,10 +61,10 @@ export default App
 const NavContainer = styled.div`
   background: url(${heroImage}) no-repeat center center; 
   background-size: cover;
-  height: 275px;
+  height: 250px;
   width: auto;
   text-align: center;
-  padding-top: 50px;
+  padding-top: 25px;
 
   @media (min-width: 1440px) {
     background: url(${heroImage}) no-repeat center center; 
@@ -76,7 +76,8 @@ const NavContainer = styled.div`
 const IPDetailContainer = styled.div`
   background: #fff;
   padding: 20px;
-  margin-top: -120px;
+  padding-top: 0px;
+  margin-top: -110px;
   position: absolute;
   z-index: 9999;
   border-radius: 15px;

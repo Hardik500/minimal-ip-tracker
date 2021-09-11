@@ -33,9 +33,9 @@ export default function Map({ position }) {
     });
 
     return (
-        <LeafletMap center={position} zoom={20} zoomControl={false}
+        <LeafletMap center={position} zoom={17} zoomControl={false}
             whenCreated={map => setInterval(() => { map.invalidateSize() }, 100)}
-            style={{ height: isMobile ? "60vh" : "65vh" }}>
+            style={{ height: isMobile ? "70vh" : "65vh" }}>
             <MyComponent position={position} />
             <TileLayer
                 attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
