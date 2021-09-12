@@ -11,7 +11,7 @@ import LoginPage from './components/LoginPage';
 function App() {
   const [position, setPosition] = useState([34.80746, -40.4796]);
   const [ipInformation, setIpInformation] = useState({})
-  const [isLoggedIn, setLoggedIn] = useState(true);
+  const [isLoggedIn, setLoggedIn] = useState(false);
   const [errorMessage, setErrorMessage] = useState('');
 
   useEffect(() => {
