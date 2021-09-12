@@ -22,7 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### Mobile Layout:
+![image](https://user-images.githubusercontent.com/28431356/132979060-18d10fe2-9677-467a-919f-363de6e0c927.png)
+
+#### Desktop Layout
+![image](https://user-images.githubusercontent.com/28431356/132979130-5e6eac57-a00d-4547-bcac-a64f8dead6b9.png)
+![image](https://user-images.githubusercontent.com/28431356/132979080-69be09a1-671f-4e5a-9596-23b1d97171f5.png)
+
 
 ### Links
 
